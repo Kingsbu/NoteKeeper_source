@@ -25,7 +25,7 @@
                 android:layout_marginStart="8dp"
                 android:layout_marginTop="8dp"
                 android:text="TextView"
-                android:textAppearance="@android:style/TextAppearance.Material.Large"
+                android:textAppearance="@style/CourseTitle"
                 card_view:layout_constraintStart_toEndOf="@+id/imageView3"
                 card_view:layout_constraintTop_toTopOf="parent" />
 

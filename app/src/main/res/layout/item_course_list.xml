@@ -27,8 +27,7 @@
                 android:layout_marginTop="8dp"
                 android:layout_marginEnd="8dp"
                 android:text="TextView"
-                android:textAlignment="center"
-                android:textAppearance="@android:style/TextAppearance.Material.Medium"
+                android:textAppearance="@style/CourseTitle"
                 card_view:layout_constraintEnd_toEndOf="parent"
                 card_view:layout_constraintStart_toStartOf="parent"
                 card_view:layout_constraintTop_toTopOf="parent" />
