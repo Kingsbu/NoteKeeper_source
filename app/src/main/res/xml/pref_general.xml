@@ -26,7 +26,7 @@
         android:defaultValue="@string/pref_default_favourite_social"
         android:entries="@array/pref_entries_favourite_social"
         android:entryValues="@array/pref_values_favourite_social"
-        android:key="user_favourite_title"
+        android:key="user_favourite_social"
         android:negativeButtonText="@null"
         android:positiveButtonText="@null"
         android:title="@string/title_favourite_social" />
